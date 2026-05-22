@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from "react";
 import "./App.css";
+import addInvoice from "addInvoice.js";
 
 const AUTH_KEY = "nexa_auth";
 const INVOICE_KEY = "nexa_invoices";
