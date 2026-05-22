@@ -15,4 +15,4 @@
     setInvoiceForm({ client: "", dueDate: "", amount: "", description: "" });
   };
 
-export default addInvoice;
+export default AddInvoice;
